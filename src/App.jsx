@@ -3,7 +3,7 @@ import Header from "../src/container/Header/Header"
 import AboutUs from "../src/container/AboutUs/AboutUs"
 import Menu from "../src/container/Menu/Menu"
 import Chef from "../src/container/Chef/Chef"
-import Intro from './container/Intro/intro';
+import Intro from './container/Intro/Intro';
 import Laurels from './container/Laurels/Laurels';
 import Gallery from "./container/Gallery/Gallery"
 import FindUs from './container/Findus/FindUs';
